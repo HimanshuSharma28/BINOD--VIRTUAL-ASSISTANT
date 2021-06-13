@@ -1,1 +1,2 @@
-# BINOD--VIRTUAL-ASSISTANT
+# Binod-VirtualAssistant
+Binod is AI based Virtual Assistant 
